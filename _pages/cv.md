@@ -11,54 +11,30 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Tongji University**
+  * M.Eng. in Software Engineering (Academic Master’s Program), [2025–2028 (expected)]
+* **Tongji University**
+  * B.Eng. in Software Engineering, [2021–2025]
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **ZhenKunHang**
+  * Data Platform Department / Development Intern
+  * 2024.11 – 2025.02
+  * Duties includes:
+    * Analyzed, developed, and monitored data tracking with Sensors Analytics.
+    * Managed log collection, analysis, and export using Alibaba Cloud Log Service (SLS).
+* **Shanghai Academy of Spaceflight Technology**
+  * [2024.07 – 2024.10]
+  * Duties included: 
+    * Deployed the open-source MinerU model for PDF parsing.
+    * Packaged the model into a Docker image using FastAPI, providing PDF document parsing services for downstream tasks.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Java
+* C++
+* python
+* database
+  * mysql
+  * redis
